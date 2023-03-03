@@ -6,7 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Prueba de deployar en gitHub pages</p>
+        <h1>Prueba de deployar en gitHub pages</h1>
+        <p>esta app sirve de prueba para probar los hosting de front </p>
+        <p>vercel</p>
+        <p>gitHub Pages</p>
         <a
           className="App-link"
           href="https://reactjs.org"
