@@ -1,0 +1,7 @@
+  "homepage": "https://arielZarate.github.io/Prueba/",
+
+      "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+
+
+    npm i gh-pages -D
