@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Prueba/static/css/main.073c9b0a.css",
-    "main.js": "/Prueba/static/js/main.ffa1455d.js",
-    "static/js/787.fe233384.chunk.js": "/Prueba/static/js/787.fe233384.chunk.js",
-    "static/media/logo.svg": "/Prueba/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Prueba/index.html",
-    "main.073c9b0a.css.map": "/Prueba/static/css/main.073c9b0a.css.map",
-    "main.ffa1455d.js.map": "/Prueba/static/js/main.ffa1455d.js.map",
-    "787.fe233384.chunk.js.map": "/Prueba/static/js/787.fe233384.chunk.js.map"
+    "main.css": "/Deploy_prueba/static/css/main.073c9b0a.css",
+    "main.js": "/Deploy_prueba/static/js/main.f9284927.js",
+    "static/js/787.fe233384.chunk.js": "/Deploy_prueba/static/js/787.fe233384.chunk.js",
+    "static/media/logo.svg": "/Deploy_prueba/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Deploy_prueba/index.html",
+    "main.073c9b0a.css.map": "/Deploy_prueba/static/css/main.073c9b0a.css.map",
+    "main.f9284927.js.map": "/Deploy_prueba/static/js/main.f9284927.js.map",
+    "787.fe233384.chunk.js.map": "/Deploy_prueba/static/js/787.fe233384.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ffa1455d.js"
+    "static/js/main.f9284927.js"
   ]
 }
